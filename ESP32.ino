@@ -6,18 +6,18 @@
 // WIFI SETTINGS
 // ============================================================================
 
-#define WIFI_SSID       "😜 Hae_Krishna 😈"
-#define WIFI_PASSWORD   "01774271450@@"
+#define WIFI_SSID       ""
+#define WIFI_PASSWORD   ""
 
 // ============================================================================
 // FIREBASE SETTINGS
 // ============================================================================
 
-#define API_KEY         "AIzaSyD_pw2tqB_whEsddwJ_RmSidMSMbCWcQfM"
-#define DATABASE_URL    "https://esp32-remote-home-control-default-rtdb.asia-southeast1.firebasedatabase.app/"
+#define API_KEY         ""
+#define DATABASE_URL    ""
 
-#define USER_EMAIL      "kajolchandradas3@gmail.com"
-#define USER_PASSWORD   "Kajol01568453178@@"
+#define USER_EMAIL      ""
+#define USER_PASSWORD   ""
 
 // ============================================================================
 // SYSTEM SETTINGS
