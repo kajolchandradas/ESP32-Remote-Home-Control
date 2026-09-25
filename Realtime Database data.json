@@ -1,0 +1,9 @@
+{
+  "relay1": false,
+  "relay2": false,
+  "timerActive": false,
+  "remaining": 0,
+  "statusRequest": false,
+  "statusReply": false,
+  "deviceStatus": "Disconnected"
+}
